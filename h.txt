@@ -1,2 +1,9 @@
 rvrhell
+<<<<<<< HEAD
 dc
+=======
+efwef
+wefewf
+wefef
+ewfwef
+>>>>>>> master
